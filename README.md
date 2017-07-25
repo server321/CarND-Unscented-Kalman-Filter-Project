@@ -5,17 +5,26 @@ In this project utilize an Unscented Kalman Filter to estimate the state of a mo
 
 ## RMSE ##
 *Dataset 1*
+
 X: 0.0842
+
 Y: 0.0925
+
 VX: 0.3850
+
 VY: 0.2537
+
 
 ![](dataset1.png)
 
 *Dataset 2*
+
 X: 0.0808
+
 Y: 0.0873
+
 VX: 0.2417
+
 VY: 0.2664
 
 ![](dataset2.png)
